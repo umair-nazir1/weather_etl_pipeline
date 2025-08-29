@@ -1,0 +1,26 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Logs
+logs/
+*.log
+
+# Data (raw & processed)
+data/raw/
+data/processed/
+
+# Reports (images) - optional: agar demo ke liye kuch rakhna hai to allow kar sakte ho
+reports/*.png
+
+# SQLite DB (local only)
+data/weather.db
+
+# MacOS system files
+.DS_Store
