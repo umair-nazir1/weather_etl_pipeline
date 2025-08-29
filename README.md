@@ -27,3 +27,16 @@
 python3 -m venv venv
 source venv/bin/activate
 python3 -m pip install -r requirements.txt
+
+
+### Islamabad Temperature Trend
+![Islamabad Temperature](assets/temp_trend_Islamabad.png)
+### Karachi Temperature Trend
+![Karachi Temperature](assets/Karachi.png)
+### Lahore Temperature Trend
+![Lahore Temperature](assets/temp_trend_Lahore.png)
+### Multan Temperature Trend
+![Multan Temperature](assets/temp_trend_Multan.png)
+### Quetta Temperature Trend
+![Quetta Temperature](assets/temp_trend_Quetta.png)
+
